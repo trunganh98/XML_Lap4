@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="Sales.xsl"?>
+<Sales>
+    <Person class="red">
+        <Name>David Blake</Name>
+        <Age>32</Age>
+        <Commission>500</Commission>
+    </Person>
+    <Person>
+        <Name>Susan Jones</Name>
+        <Age>55</Age>
+        <Commission>5000</Commission>
+    </Person>
+    <Person>
+        <Name>Martin Howell</Name>
+        <Age>25</Age>
+        <Commission>0</Commission>
+    </Person>
+    <Person>
+        <Name>Tony Kemp</Name>
+        <Age>35</Age>
+        <Commission>5000</Commission>
+    </Person>
+</Sales>
